@@ -17,5 +17,5 @@ http://learnvimscriptthehardway.stevelosh.com/chapters/45.html
 https://robots.thoughtbot.com/writing-vim-syntax-plugins
 I am sure there are many others as well.
 
-MEMTIONS..
+MENTIONS..
 Thanks to Erkin (My team member for the WACC Complier project), who suggested the idea (though sarcastically).
