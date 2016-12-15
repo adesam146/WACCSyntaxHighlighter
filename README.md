@@ -2,9 +2,9 @@
 A Vim syntax highlighting for the WACC language. WACC is a language for which second-year computing students have to write a compiler for.
 
 SETUP
-To set this up you need to copy the following two lines into you .vimrc file
-au BufRead,BufNewFile *.wacc set filetype=wacc
-au! Syntax wacc source <path for the wacc.vim file>
+To set this up you need to copy the following two lines into you .vimrc file <br />
+au BufRead,BufNewFile *.wacc set filetype=wacc <br />
+au! Syntax wacc source <path for the wacc.vim file> <br />
 
 ALTERNATIVE
 If you place "wacc.vim" file in ~/.vim/syntax/ then you shouldn't need the second 
